@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group1"
+        >
+        <item
+            android:id="@+id/reminders"
+            android:icon="@drawable/ic_reminders_icon"
+            android:title="My Reminders"/>
+        <item
+            android:id="@+id/new_reminder"
+            android:icon="@drawable/ic_new_reminder"
+            android:title="New reminder"
+             />
+        <item
+            android:id="@+id/health"
+            android:icon="@drawable/ic_health"
+            android:title="Health Protocol Manual"
+             />
+        <item
+            android:id="@+id/account"
+            android:icon="@drawable/ic_account"
+            android:title="Account Settings"
+             />
+        <item
+            android:id="@+id/nutrition"
+            android:icon="@drawable/ic_nutrition"
+            android:title="Nutrition Guide"
+             />
+        <item
+            android:id="@+id/help"
+            android:icon="@drawable/ic_help"
+            android:title="Help"
+             />
+    </group>
+    <group
+        android:id="@+id/group">
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Log out"
+             />
+    </group>
+</menu>

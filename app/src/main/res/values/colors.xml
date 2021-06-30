@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#31C4CF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="greener">#ECFFFA</color>
+    <color name="gray_button">#ECF1FA</color>
+    <color name="light_blue">#ECF1FA</color>
+    <color name="colorPrimaryDark">#181461</color>
+    <color name="facebook_blue">#3A559F</color>
+    <color name="colorAccent">#31C4CF</color>
+
+
+</resources>

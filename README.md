@@ -41,8 +41,6 @@ just inbox us on any of these e-mails :
 1. Download The app from  <a href="https://drive.google.com/file/d/195Hv_pWox6-3LNPGDvqUWNpNGXA8JUAW/view?usp=sharing"> here </a>
 2. Install the App ,Try It and Don't forget to hit us with any suggestions or Notes .
 
-Note: You gotta have an "esi-sba.dz" email to be able to use the app.
-
 **Through Play Sore**
 
  Not Available Yet .

@@ -23,7 +23,7 @@ with a little bit of help by Me . And i was the one who developed The App Using 
 ## Join development!
 
 **Build status:** <br>
-The app is not completed yet , so if you wanna help improving it 
+The app is not completed yet (Some Features need a little bit of improvement & why not add more features ..) , so if you wanna help improving it 
 just inbox us on any of these e-mails :
 
 

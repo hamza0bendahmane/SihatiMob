@@ -1,5 +1,5 @@
 # SihatiMob
-<img src="https://raw.githubusercontent.com/hamza0bendahmane/SihatiMob/master/app/src/main/res/drawable/logo_png.png" height="180">
+<img src="https://raw.githubusercontent.com/hamza0bendahmane/SihatiMob/master/app/src/main/res/drawable/logo_png.png" height="180"><br><br>
 
 <img src="https://www.esi.dz/wp-content/uploads/2021/04/ESI-Logo-BG.png" width="100"/>
 
@@ -13,9 +13,10 @@
 <img src="Image5.jpg" width="260"/><img src="Image6.jpg" width="260"/><img src="Image7.jpg" width="260"/><img src="Image8.jpg" width="260"/><img src="Image9.jpg" width="260"/><img src="Image10.jpg" width="260"/>
  
 ## The Team 
- 
- <img src="IMG_20201014_103546.jpg" width="900">
- <br>
+
+The app was Designed By Azyadi Zouaghi  You can check her github from : <a href="https://github.com/azyazouaghi"> here </a>
+with a little bit of help by Me . And i was the one who developed The App Using Android Studio / java / Xml .
+<br>
  
 ## Join development!
 

@@ -16,7 +16,7 @@
 
 The app was Designed By 
 <b> Azyadi Zouaghi  </b>
-You can check her github from : <a href="https://github.com/azyazouaghi"> here </a>
+You can check her github from : <a href="https://github.com/azyazouaghi"> here </a> <br>
 with a little bit of help by Me . And i was the one who developed The App Using Android Studio / java / Xml .
 <br>
  

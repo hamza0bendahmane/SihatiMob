@@ -14,7 +14,9 @@
  
 ## The Team 
 
-The app was Designed By Azyadi Zouaghi  You can check her github from : <a href="https://github.com/azyazouaghi"> here </a>
+The app was Designed By 
+## Azyadi Zouaghi  
+You can check her github from : <a href="https://github.com/azyazouaghi"> here </a>
 with a little bit of help by Me . And i was the one who developed The App Using Android Studio / java / Xml .
 <br>
  

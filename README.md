@@ -1,7 +1,7 @@
 # SihatiMob
 <img src="https://raw.githubusercontent.com/hamza0bendahmane/SihatiMob/master/app/src/main/res/drawable/logo_png.png" height="180">
 
-<img src="https://www.esi.dz/wp-content/uploads/2021/04/ESI-Logo-BG.png" width="800"/>
+<img src="https://www.esi.dz/wp-content/uploads/2021/04/ESI-Logo-BG.png" width="100"/>
 
 # [ESI](https://esi.dz) 1CS Year Project 
 

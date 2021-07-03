@@ -18,7 +18,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.PagerAdapter;
 import androidx.viewpager.widget.ViewPager;
 
-import com.apps.SihatiMob.R;
+import hamza.bendahmane.SihatiMob.R;
 
 public class WelcomeActivity extends AppCompatActivity {
 
@@ -107,16 +107,16 @@ public class WelcomeActivity extends AppCompatActivity {
 
     }
 
-    private int getItem(int i) {
-        return viewPager.getCurrentItem() + i;
-    }
+
 
     private void launchHomeScreen() {
         prefManager.setFirstTimeLaunch(false);
         startActivity(new Intent(WelcomeActivity.this, LoginActivity.class));
         finish();
     }
-
+    private int getItem(int i) {
+        return viewPager.getCurrentItem() + i;
+    }
     //  viewpager change listener
     ViewPager.OnPageChangeListener viewPagerPageChangeListener = new ViewPager.OnPageChangeListener() {
 

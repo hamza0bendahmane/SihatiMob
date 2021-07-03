@@ -14,66 +14,13 @@ android:layout_width="match_parent"
 android:layout_height="match_parent"
 android:fitsSystemWindows="true">
 
-<com.google.android.material.appbar.AppBarLayout
-    android:layout_width="match_parent"
-    android:background="@color/white"
-    android:id="@+id/topp"
-    android:layout_height="wrap_content"
-    android:fitsSystemWindows="true">
-
-    <androidx.constraintlayout.widget.ConstraintLayout
-        android:id="@+id/top"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:elevation="8dp"
-        android:padding="10dp">
-
-        <ImageButton
-            android:id="@+id/menu"
-            android:layout_width="24dp"
-            android:focusable="true"
-            android:clickable="true"
-            android:layout_height="24dp"
-            android:background="@drawable/ic_menu"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
-
-        <ImageButton
-            android:id="@+id/account"
-            android:layout_width="32dp"
-            android:layout_height="32dp"
-            android:focusable="true"
-            android:clickable="true"
-            android:background="@drawable/ic_account"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
-
-        <TextView
-            android:id="@+id/title"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="20dp"
-            android:fontFamily="@font/montserrat"
-            android:text="Dashboard"
-            android:textColor="@color/colorPrimaryDark"
-            android:textSize="25sp"
-            android:textStyle="bold"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/menu" />
-
-
-    </androidx.constraintlayout.widget.ConstraintLayout>
-
-</com.google.android.material.appbar.AppBarLayout>
-
 
     <FrameLayout
         android:id="@+id/container_frag"
         android:layout_width="match_parent"
-        android:layout_marginTop="90dp"
     android:layout_height="match_parent"
         android:background="@color/light_blue"
-        android:padding="10dp" >
+        >
 
 
     </FrameLayout>
@@ -87,7 +34,7 @@ android:fitsSystemWindows="true">
     <com.google.android.material.navigation.NavigationView
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:background="@color/light_blue"
+        android:background="@color/white"
         app:itemTextColor="@color/colorPrimaryDark"
         android:id="@+id/nav"
         app:headerLayout="@layout/header_navigation_drawer"

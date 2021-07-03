@@ -4,6 +4,10 @@
         android:id="@+id/group1"
         >
         <item
+            android:id="@+id/home_id"
+            android:icon="@drawable/ic_help"
+            android:title="Home"/>
+        <item
             android:id="@+id/reminders"
             android:icon="@drawable/ic_reminders_icon"
             android:title="My Reminders"/>
@@ -24,17 +28,23 @@
              />
         <item
             android:id="@+id/nutrition"
-            android:icon="@drawable/ic_nutrition"
+            android:icon="@drawable/ic_nutrition_apple"
             android:title="Nutrition Guide"
              />
+
         <item
-            android:id="@+id/help"
-            android:icon="@drawable/ic_help"
-            android:title="Help"
-             />
+            android:title=""
+            android:enabled="false"
+            />
+        <item
+            android:title=""
+            android:enabled="false"
+            />
+
     </group>
     <group
-        android:id="@+id/group">
+        android:id="@+id/group"
+        >
 
         <item
             android:id="@+id/logout"

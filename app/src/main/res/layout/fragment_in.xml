@@ -97,7 +97,9 @@
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
         android:layout_marginVertical="20dp"
+        android:layout_marginBottom="20dp"
         android:fontFamily="@font/montserrat"
         android:text="By signing in, you accept our"
         android:textColor="#000"
@@ -107,21 +109,19 @@
         app:layout_constraintEnd_toStartOf="@+id/terms"
         app:layout_constraintStart_toStartOf="parent" />
 
-    <com.google.android.material.button.MaterialButton
+    <TextView
         android:id="@+id/terms"
-        style="@style/Widget.MaterialComponents.Button.TextButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginVertical="20dp"
         android:clickable="true"
-        android:textSize="12sp"
         android:focusable="true"
+        android:layout_marginLeft="5dp"
         android:text="Terms and Conditions"
         android:textColor="@color/facebook_blue"
-        android:layout_marginVertical="20dp"
+        android:textSize="14sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="@+id/textView4"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/textView4"
         app:layout_constraintTop_toTopOf="@+id/textView4" />
 

@@ -9,8 +9,16 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.EditText;
 
-import com.apps.SihatiMob.R;
+import hamza.bendahmane.SihatiMob.R;
+
+import com.google.android.gms.maps.GoogleMap;
+import com.google.android.gms.maps.OnMapReadyCallback;
+import com.google.android.gms.maps.SupportMapFragment;
+import com.google.android.gms.maps.model.BitmapDescriptor;
+import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.material.button.MaterialButton;
 
 public class MapsFragment extends Fragment {
@@ -26,7 +34,7 @@ public class MapsFragment extends Fragment {
 
     @Override
     public void onViewCreated(@NonNull View view, @Nullable Bundle savedInstanceState) {
-        super.onViewCreated(view, savedInstanceState);
+
         confirm = view.findViewById(R.id.continue_button);
         LoginActivity.fragment = this;
         confirm.setOnClickListener(new View.OnClickListener() {
@@ -39,5 +47,18 @@ public class MapsFragment extends Fragment {
 
                  }
         });
-        }
+        EditText digit0 = view.findViewById(R.id.digit0);
+        digit0.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                getFragmentManager().beginTransaction()
+                        .replace(R.id.full_container,new WholeMap())
+                        .addToBackStack("app").commit();
+            }
+        });
+
+
     }
+
+
+}

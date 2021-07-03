@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 
-import com.apps.SihatiMob.R;
+import hamza.bendahmane.SihatiMob.R;
 import com.google.android.material.button.MaterialButton;
 
 import java.util.ArrayList;
@@ -45,7 +45,7 @@ public class VerifyNumberFragment extends Fragment {
         }
 
     country_code_spinner.setAdapter(new ArrayAdapter<String>(getContext(),
-            android.R.layout.simple_spinner_item,country_codes));
+            R.layout.changed_simple_spinner_item,country_codes));
         LoginActivity.fragment = this;
         confirm.setOnClickListener(new View.OnClickListener() {
             @Override

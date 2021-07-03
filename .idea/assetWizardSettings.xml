@@ -3,6 +3,11 @@
   <component name="WizardSettings">
     <option name="children">
       <map>
+        <entry key="imageWizard">
+          <value>
+            <PersistentState />
+          </value>
+        </entry>
         <entry key="vectorWizard">
           <value>
             <PersistentState>
@@ -14,8 +19,8 @@
                         <option name="values">
                           <map>
                             <entry key="assetSourceType" value="FILE" />
-                            <entry key="outputName" value="ic_nutrition" />
-                            <entry key="sourceFile" value="C:\Users\HB\Desktop\fgffghgf.svg" />
+                            <entry key="outputName" value="ic_rounded_back" />
+                            <entry key="sourceFile" value="C:\Users\HB\Desktop\rounded_back.svg" />
                           </map>
                         </option>
                       </PersistentState>

@@ -6,7 +6,7 @@ import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 
-import com.apps.SihatiMob.R;
+import hamza.bendahmane.SihatiMob.R;
 
 public class LoginActivity extends AppCompatActivity {
 

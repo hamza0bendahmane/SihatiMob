@@ -12,12 +12,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.apps.SihatiMob.R;
+import hamza.bendahmane.SihatiMob.R;
 import com.google.android.material.button.MaterialButton;
 
 public class InFragment extends Fragment {
 
-    MaterialButton terms,fb_login,number_login;
+    MaterialButton fb_login,number_login;
     Intent intent ;
 
     @Override
@@ -29,12 +29,11 @@ public class InFragment extends Fragment {
 
     @Override
     public void onViewCreated(@NonNull View view, @Nullable  Bundle savedInstanceState) {
-        terms =view.findViewById(R.id.terms);
         intent = new Intent(getContext(),MainActivity.class);
         fb_login =view.findViewById(R.id.button_fb);
         number_login =view.findViewById(R.id.button_number);
         LoginActivity.fragment = this;
-        terms.setOnClickListener(new View.OnClickListener() {
+        view.findViewById(R.id.terms).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 new AlertDialog.Builder(getContext()).

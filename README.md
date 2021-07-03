@@ -9,8 +9,14 @@
 
 <a href="https://drive.google.com/file/d/195Hv_pWox6-3LNPGDvqUWNpNGXA8JUAW/view?usp=sharing"><img src="https://github.com/hamza0bendahmane/ESIbetter/blob/master/index.png" height="75"></a> <br> <br>
 
-<img src="Screenshoots/1.png" width="260"/> <img src="Image3.jpg" width="260"/> <img src="Image3.png" width="260"/> <img src="Image4.png" width="260" />
-<img src="Image5.jpg" width="260"/><img src="Image6.jpg" width="260"/><img src="Image7.jpg" width="260"/><img src="Image8.jpg" width="260"/><img src="Image9.jpg" width="260"/><img src="Image10.jpg" width="260"/>
+<img src="Screenshoots/1.png" width="260"/> <img src="Screenshoots/2.png" width="260"/> <img src="Screenshoots/3.png" width="260"/> <img src="Screenshoots/4.png" width="260"/> 
+<img src="Screenshoots/5.png" width="260"/> <img src="Screenshoots/6.png" width="260"/> <img src="Screenshoots/7.png" width="260"/> <img src="Screenshoots/8.png" width="260"/> 
+<img src="Screenshoots/9.png" width="260"/> <img src="Screenshoots/10.png" width="260"/> <img src="Screenshoots/11.png" width="260"/> <img src="Screenshoots/12.png" width="260"/> 
+<img src="Screenshoots/13.png" width="260"/> <img src="Screenshoots/14.png" width="260"/> <img src="Screenshoots/15.png" width="260"/> <img src="Screenshoots/16.png" width="260"/> 
+<img src="Screenshoots/17.png" width="260"/> <img src="Screenshoots/18.png" width="260"/> <img src="Screenshoots/19.png" width="260"/> <img src="Screenshoots/20.png" width="260"/> 
+<img src="Screenshoots/21.png" width="260"/> <img src="Screenshoots/22.png" width="260"/> <img src="Screenshoots/23.png" width="260"/> <img src="Screenshoots/24.png" width="260"/> 
+
+
  
 ## The Team 
 

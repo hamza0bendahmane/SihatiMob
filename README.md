@@ -18,8 +18,9 @@
 <img src="Screenshoots/17.png" width="260"/> <img src="Screenshoots/18.png" width="260"/> <img src="Screenshoots/19.png" width="260"/> <img src="Screenshoots/20.png" width="260"/> 
 <img src="Screenshoots/21.png" width="260"/> <img src="Screenshoots/22.png" width="260"/> <img src="Screenshoots/23.png" width="260"/> <img src="Screenshoots/24.png" width="260"/> 
 _________________________<br>
-You can Also check the Demo on Youtube from :<br>
-<a href="https://www.youtube.com/watch?v=6evijHYMHk0">here </a>  <br>
+<b> 
+You can Also check the Demo on Youtube from : <br>
+<a href="https://www.youtube.com/watch?v=6evijHYMHk0">here </a>  <br> </b>
 
  
 ## The Team 
@@ -46,9 +47,9 @@ just inbox us on any of these e-mails :
 
 ## Join testing!
 
-**Through Google Drive**
+**Through Github**
 
-1. Download The app from  <a href="https://drive.google.com/file/d/195Hv_pWox6-3LNPGDvqUWNpNGXA8JUAW/view?usp=sharing"> here </a>
+1. Download The app from  <a href="https://github.com/hamza0bendahmane/SihatiMob/blob/master/app/src/main/SihatiMob.apk"> here </a>
 2. Install the App ,Try It and Don't forget to hit us with any suggestions or Notes .
 
 **Through Play Sore**

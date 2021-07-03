@@ -3,7 +3,7 @@
 
 <img src="https://www.esi.dz/wp-content/uploads/2021/04/ESI-Logo-BG.png" width="100"/>
 
-# [ESI](https://esi.dz) 1CS Year Project 
+# [ESI](https://esi.dz) 1CS Year Project  
 
 ## "An Android Health Platform for the Algerian People " 
 
@@ -20,7 +20,7 @@
 _________________________<br>
 <b> 
 You can Also check the Demo on Youtube from : <br>
-<a href="https://www.youtube.com/watch?v=6evijHYMHk0">here </a>  <br> </b>
+<a href="https://www.youtube.com/watch?v=6evijHYMHk0"><img src="https://image.flaticon.com/icons/png/512/1384/1384060.png" height="75"> </a>  <br> </b>
 
  
 ## The Team 
